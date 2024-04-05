@@ -21,7 +21,7 @@ With a polyglot's tongue, I navigate the linguistic landscape:
 - 🇺🇸 **English:** Fluent (C1)
 - 🇩🇪 **German:** Conversational (B1)
 - 🇫🇷 **French:** Basic (A2)
-- 🇮🇳 **Malayalam:** Native speaker, the language of my heart ❤️
+- 🇮🇳 **Malayalam:** Native speaker, my dreaming language ❤️
 
 ## Quests in the Data Odyssey 🚀🔍
 
