@@ -37,7 +37,7 @@ Join me on this thrilling expedition through the realms of philosophy, data anal
 🚪 Feel free to knock on the digital door:
 
 - **Data portfolio:** [ Portfolio](https://ammu993.github.io/portfolio/)
-- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/ammu-joshy-01)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ammu-joshy-01/)
 
 
 Let's embark on this epic adventure of intellect, insight, and storytelling magic! 🚀✨
