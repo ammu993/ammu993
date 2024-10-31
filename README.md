@@ -32,7 +32,7 @@ With a polyglot's tongue, I navigate the linguistic landscape:
 
 ## Let's Journey Together! 🌟
 
-Join me on this thrilling expedition through the realms of philosophy, data analytics, and storytelling! Together, we'll explore the depths of knowledge, unravel the threads of wisdom, and illuminate the path to discovery.
+Join me on this thrilling expedition through the realms of philosophy, data analytics, and storytelling! 
 
 🚪 Feel free to knock on the digital door:
 
