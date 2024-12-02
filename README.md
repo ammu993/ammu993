@@ -19,7 +19,7 @@ In my quest for knowledge, I wield a diverse array of tools:
 With a polyglot's tongue, I navigate the linguistic landscape:
 
 - 🇺🇸 **English:** Fluent (C1)
-- 🇩🇪 **German:** Conversational (B2.1)
+- 🇩🇪 **German:** Conversational (B2)
 - 🇫🇷 **French:** Basic (A2)
 - 🇮🇳 **Malayalam:** Native speaker, my dreaming language ❤️
 
