@@ -1,44 +1,60 @@
 #  Hello, I'm Ammu 👋 | 🧠📊 A Philosopher turned Data Explorer 🚀🔍
 
-## Greetings, Wanderers of Wisdom and Data Adventurers! 🌟
+## **Data Analyst | Product Analytics | Business Intelligence | GenAI Strategy Consultant**
 
-I'm a philosopher who has embarked on an exhilarating journey into the realm of data analytics! 🌌 Armed with a keen intellect, insatiable curiosity, and a knack for seeing the big picture, I'm here to unravel the mysteries of technology and data.
+I specialize in **SQL, Python, Power BI, and Excel**, with expertise in **Product Analytics** and **Business Intelligence**. Recent experience as **Senior IT Strategy Consultant for GenAI in Digital Workplace Services**.
 
-## Exploring the Data Cosmos 🌐🔭
+Background: Engineering + Philosophy → Analytical rigor, structured thinking, data-driven decision support.
 
-In my quest for knowledge, I wield a diverse array of tools:
+---
 
-- 📈 **Data Wrangling:** Excel, Google Sheets, BigQuery/SQL - transforming raw data into insights.
-- 📊 **Visualization:** Tableau - painting vivid pictures of patterns and trends.
-- 📝 **Data Storytelling:** Weaving narratives that bring data to life, engaging hearts and minds alike.
-- 🐍 **Scripting:** Python (basics) - scripting my way through data challenges.
-- 🖥️ **Web Basics:** HTML and CSS (basics) - crafting digital experiences with flair.
+## 🎯 Core Expertise
 
-## Multilingual Communicator 🌍🗣️
+**Product Analytics**  
+Cohort Analysis • Churn & Engagement • Retention • Funnels • A/B Testing • User Behavior Analysis
 
-With a polyglot's tongue, I navigate the linguistic landscape:
+**Business Intelligence**  
+Dashboards & Reporting • KPIs & Metrics • Power BI • Tableau • Self-Service Analytics • Data Visualization
 
-- 🇺🇸 **English:** Fluent (C1)
-- 🇩🇪 **German:** Conversational (B2)
-- 🇫🇷 **French:** Basic (A2)
-- 🇮🇳 **Malayalam:** Native speaker, my dreaming language ❤️
+**Data & Engineering**  
+SQL (BigQuery, Snowflake) • ETL/ELT • Data Pipelines • Data Quality • Data Warehouses • dbt • Power Automate
 
-## Quests in the Data Odyssey 🚀🔍
+**Analytics Methods**  
+Ad-hoc Analysis • Statistical Analysis • Predictive Analytics • Forecasting • Performance Analysis
 
-- 📊 **Questioning the Data Cosmos:** Posing critical questions and seeking nuanced answers.
-- 🧭 **Navigating the Technological Terrain:** Contextualizing data within the ever-evolving landscape of technology.
-- 📖 **Crafting Data Narratives:** Transforming insights into compelling stories that inform and inspire.
-- 🌟 **Seeking Insights, Shaping Decisions:** Gathering insights and crafting strategies for informed decision-making.
+---
 
-## Let's Journey Together! 🌟
+## 🛠️ Technical Stack
 
-Join me on this thrilling expedition through the realms of philosophy, data analytics, and storytelling! 
+SQL • Power BI • Python • Excel • Tableau • BigQuery 
 
-🚪 Feel free to knock on the digital door:
+---
 
+## 💼 What I Do
+
+- Transform data into **actionable insights** and **business recommendations**
+- Build **dashboards and automated reporting** for stakeholder decision-making
+- Conduct **deep dives** on product metrics, user behavior, and commercial performance
+- Bridge **business requirements** and **technical implementation**
+- Lead **cross-functional collaboration** with senior stakeholders
+
+Philosophy background → Structured problem solving, critical thinking, clear communication.
+
+---
+
+## 🌍 Languages
+
+English (C1) • German (B2) • French (A2) • Malayalam (Native)
+
+---
+
+## 🚀 Open to Opportunities
+
+**Target roles**: Data Analyst • Product Analyst • Business Intelligence Analyst • Data & AI Consultant  
+**Regions**: DACH, BeneLux
+
+Explore my repositories for examples of SQL analysis, data visualization, product analytics, and data modeling.
 - **Data portfolio:** [ Portfolio](https://ammu993.github.io/portfolio/)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ammu-joshy-01/)
-
-
-Let's embark on this epic adventure of intellect, insight, and storytelling magic! 🚀✨
-
+  
+- If you wish to connect, feel free to reach out to me  via  [LinkedIn Profile](https://www.linkedin.com/in/ammu-joshy-01/)
+---
